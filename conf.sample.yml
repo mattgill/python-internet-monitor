@@ -1,0 +1,11 @@
+# copy the URL of a location in SpeedTest. ID is at the end of the URL.
+# if not given it will just pick one at random
+speedtest_server_ids: 0
+speedtest_attempt_limit: 2
+
+# default is good ol Google. 40 byte payload 10 times
+ping_server: '8.8.8.8'
+ping_payload_bytes: 56 # ping default
+ping_count: 10
+
+test_sleep_minutes: 5

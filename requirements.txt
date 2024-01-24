@@ -1,0 +1,4 @@
+# for config
+pyyaml
+# speedtest-cli # doesn't get me all the servers
+# pythonping # requires root. great in Docker, not locally.
